@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+}
+
+/* ------------- */
+.navbar {
+    display: flex;
+
+    height: 100px;
+}
+
+.logo {
+    width: 20%;
+    margin-right: 10px;
+    background-color: blue;
+
+}
+
+.banner {
+    width: 80%;
+    background-color: blue;
+}
+
+.banner_container {
+    background-color: blue;
+    margin: 10px 0px;
+    height: 200px;
+}
+
+/* main content section will here  */
+.main_container {
+    display: flex;
+}
+
+.left {
+    background-color: blue;
+    width: 25%;
+    height: 409px;
+    margin-right: 10px ;
+}
+
+.center {
+  
+    width: 50%;
+    height: 400px;
+    margin-right: 10px ;
+
+}
+
+.right {
+    background-color: blue;
+    width: 25%;
+    height: 409px;
+
+}
+.one{
+    background-color: blue;
+    height: 100px;
+    margin-bottom: 5px ;
+
+}
+.two{
+    height: 200px;
+    display: flex;
+    
+
+}
+.three{
+    background-color: blue;
+    height: 100px;
+    margin-top: 5px ;
+}
+.left_content , .right_content{
+    background-color: blue;
+    width: 50%;
+    margin: 2px;
+   
+}
+
+/* footer */
+.footer{
+    background-color: blue;
+    margin-top: 10px;
+    height: 100px ;
+}
